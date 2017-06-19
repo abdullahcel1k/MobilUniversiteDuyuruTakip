@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "62968779462",
+    "firebase_url": "https://universite-duyuru.firebaseio.com",
+    "project_id": "universite-duyuru",
+    "storage_bucket": "universite-duyuru.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62968779462:android:f1c1a8f9957aaa7e",
+        "android_client_info": {
+          "package_name": "com.example.abdullah.socialuniversity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "62968779462-s0l19i1i2feiltveg4ftcqente1bl20r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPr_ENDIojFgdgDvSr4FEZXOwDgAxAwPs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

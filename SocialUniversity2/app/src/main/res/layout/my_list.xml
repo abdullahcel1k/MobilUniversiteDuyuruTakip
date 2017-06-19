@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="80dp">
+        <ImageView
+            android:id="@+id/universityLogo"
+            android:layout_width="80dp"
+            android:layout_height="80dp"/>
+        <TextView
+            android:id="@+id/universityName"
+            android:layout_width="200dp"
+            android:layout_height="25dp"
+            android:layout_marginLeft="120dp"
+            android:layout_marginTop="10dp"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/universityWeb"
+            android:layout_width="200dp"
+            android:layout_height="25dp"
+            android:layout_marginLeft="120dp"
+            android:layout_marginTop="50dp"
+            />
+    </RelativeLayout>
+</LinearLayout>
